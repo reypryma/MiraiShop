@@ -20,7 +20,7 @@
         $recipient = "eddy@hastechit.com";
 
         // Set the email subject.
-        $subject = "Quicky - Mail From $name";
+        $subject = "Mirai - Mail From $name";
 
         // Build the email content.
         $email_content = "Name: $name\n";

@@ -1,13 +1,13 @@
 /*----------------------------------------*/
 /*  03 - Utilities - Helper
 /*----------------------------------------*/
-/* ---Quicky's Container--- */
+/* ---Mirai's Container--- */
 .container{
 	@include breakpoint(min-xl_device){
 		max-width: 1170px;
 	}
 }
-/* ---Quicky's Wrapper Boxed Layout--- */
+/* ---Mirai's Wrapper Boxed Layout--- */
 .wrapper-boxed_layout{
 	width: calc(100% - 140px);
 	margin: 0 auto;
@@ -19,7 +19,7 @@
 	}
 }
 
-/* ---Quicky's Custom Column--- */
+/* ---Mirai's Custom Column--- */
 
 .custom-xxs-col{
 	@include breakpoint(max-xxs_device){
@@ -37,7 +37,7 @@
 	}
 }
 
-/* ---Quicky's Section Space--- */
+/* ---Mirai's Section Space--- */
 
 // Padding Top
 .pt-170{
@@ -265,7 +265,7 @@
 
 }
 
-/* ---Quicky's Preloader---*/
+/* ---Mirai's Preloader---*/
 .loading {
 	position: fixed;
 	top: 0;
@@ -542,7 +542,7 @@
 	}
 }
 
-/* ---Quicky's Pagination--- */
+/* ---Mirai's Pagination--- */
 .quicky-paginatoin-area {
 	padding-top: 30px;
 	.quicky-pagination-box {
@@ -983,7 +983,7 @@
 	}
 }
 
-/* ---Quicky's Slick Dots--- */
+/* ---Mirai's Slick Dots--- */
 .slick-dots {
 	position: absolute;
 	bottom: 30px;

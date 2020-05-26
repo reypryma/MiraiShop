@@ -1,7 +1,7 @@
 (function ($) {
 	'use strict';
 	/*---------------------------------------
-		Quicky's Preloader
+		Mirai's Preloader
 ---------------------------------*/
 	$(window).on('load', function () {
 		var wind = $(window);
@@ -111,7 +111,7 @@
 		$('.nice-select').niceSelect();
 	});
 	/*----------------------------------------*/
-	/* Quicky's Countdown
+	/* Mirai's Countdown
 	/*----------------------------------------*/
 	// Check if element exists
 	$.fn.elExists = function () {
@@ -268,7 +268,7 @@
 	});
 
 	/*---------------------------------------------*/
-	/*  Quicky's CounterUp
+	/*  Mirai's CounterUp
 	/*----------------------------------------------*/
 	$('.count').counterUp({
 		delay: 10,
@@ -276,7 +276,7 @@
 	});
 
 	/*----------------------------------------*/
-	/*  Quicky's Product View Mode
+	/*  Mirai's Product View Mode
 	/*----------------------------------------*/
 	function porductViewMode() {
 		$(window).on({
