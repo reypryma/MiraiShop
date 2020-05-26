@@ -24,7 +24,7 @@ INDEX:
     22 - Components - Instagram
     23 - Components - Service
 
-    25 - Section - Header
+    25 - Section - header
     26 - Section - Footer
 
     29 - Pages - Blog
@@ -5544,7 +5544,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
   content: '\f273';
 }
 
-/* ---Header User Setting Area--- */
+/* ---header User Setting Area--- */
 .user-setting_area {
   padding-top: 25px;
 }
@@ -8641,9 +8641,9 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
 }
 
 /*----------------------------------------*/
-/*  25 - Section - Header
+/*  25 - Section - header
 /*----------------------------------------*/
-/* ---Header Right Area--- */
+/* ---header Right Area--- */
 .header-right_area {
   display: -webkit-box;
   display: -webkit-flex;
@@ -8769,7 +8769,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
   font-size: 25px;
 }
 
-/* ---Header Bottom Area--- */
+/* ---header Bottom Area--- */
 .main-nav > ul > li {
   display: inline-block;
   margin-right: 45px;
@@ -8954,7 +8954,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
           transform: scaleY(1);
 }
 
-/* ---Header Contact--- */
+/* ---header Contact--- */
 .header-contact {
   display: -webkit-box;
   display: -webkit-flex;
@@ -8978,7 +8978,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
   margin-bottom: 0;
 }
 
-/* ---Main Header--- */
+/* ---Main header--- */
 .main-header .main-header_nav {
   display: -webkit-box;
   display: -webkit-flex;
@@ -9023,7 +9023,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
   }
 }
 
-/* ---Main Header Two--- */
+/* ---Main header Two--- */
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .main-header_area-2 .main-header_nav .main-menu_area > nav.main-nav > ul > li {
     margin-right: 30px;
@@ -9052,7 +9052,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
   }
 }
 
-/* ---Main Header Three--- */
+/* ---Main header Three--- */
 .main-header_area-3 .container-fluid {
   padding: 0 70px;
 }
@@ -9075,7 +9075,7 @@ i, .tab-content .tab-pane.active, .scroll-to-top i, .quantity .cart-plus-minus >
   }
 }
 
-/* ---Sticky Header--- */
+/* ---Sticky header--- */
 .header-sticky {
   background-color: #ffffff;
   -webkit-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);

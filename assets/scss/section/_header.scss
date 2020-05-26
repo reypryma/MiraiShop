@@ -1,8 +1,8 @@
 /*----------------------------------------*/
-/*  25 - Section - Header
+/*  25 - Section - header
 /*----------------------------------------*/
 
-/* ---Header Right Area--- */
+/* ---header Right Area--- */
 .header-right_area{
     display: flex;
     align-items: center;
@@ -71,7 +71,7 @@
     }
 }
 
-/* ---Header Bottom Area--- */
+/* ---header Bottom Area--- */
 .main-nav{
     > ul{
         > li{
@@ -200,7 +200,7 @@
     }
 }
 
-/* ---Header Contact--- */
+/* ---header Contact--- */
 .header-contact{
     display: flex;
     align-items: center;
@@ -215,7 +215,7 @@
     }
 }
 
-/* ---Main Header--- */
+/* ---Main header--- */
 .main-header{
     .main-header_nav{
         display: flex;
@@ -237,7 +237,7 @@
     }
 }
 
-/* ---Main Header Two--- */
+/* ---Main header Two--- */
 .main-header_area-2{
     .main-header_nav{
         .main-menu_area{
@@ -272,7 +272,7 @@
     }
 }
 
-/* ---Main Header Three--- */
+/* ---Main header Three--- */
 .main-header_area-3{
     .container-fluid{
         padding: 0 70px;
@@ -290,7 +290,7 @@
     }
 }
 
-/* ---Sticky Header--- */
+/* ---Sticky header--- */
 .header-sticky{
     background-color: $white-color;
     box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
